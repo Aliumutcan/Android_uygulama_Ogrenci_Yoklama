@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobil_Ogrenci_Yoklama</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="giris">Giriş</string>
+    <string name="yoklamaya_katil">Yoklamaya Katıl</string>
+    <string name="yoklamadan_cik">Yoklamadan Cık</string>
+    <string name="sifre">" "</string>
+    <string name="ogrenci_giris">Öğrenci Giriş</string>
+    <string name="ogretmen_giris">Akademisyen Giriş</string>
+    <string name="yoklama_baslat">Yoklama\'yı Başlat</string>
+    <string name="acik_ders_kapat">Acık olan dersi kapat</string>
+</resources>
